@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dabbi
+ *
+ */
+module FunctionalProgramming {
+}
